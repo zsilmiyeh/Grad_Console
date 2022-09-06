@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int[] A = new int[10] { 10, 4, 5, 6, 22, 3, 7, 8, 9, 10 };
+int[] A = new int[10] { 10, 4, 5, 6, 22, 3, 7, 8, 9, 10,12,15 };
 string[] B = { "GTC", "Book", "Cat", "X", "Door" };
 
 double avg = A.Average();
